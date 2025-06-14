@@ -1,0 +1,1 @@
+Using python(pandas,numpy,seaborn.scikit-learn) Data Analytics,Visualization and Machine Learning Modals were applied on Customer Data of a Bank in Portugal, on a campaign. Most impactful features have been discovered with insights and strong machine learning modal created with Random forest modal(0.94)
